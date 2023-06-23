@@ -17,6 +17,13 @@ The model has been trained on the MNIST dataset using the following steps:
 
 4. Model evaluation: The trained model is evaluated using the test set images and labels. The accuracy metric is calculated to measure the performance of the model on unseen data.
 
+## handwritten dataset
+![image](https://github.com/keerthikkn/MNIST_Degit_Classification/assets/42544473/860365c3-f8c2-4c5e-9038-e10729add79c)
+
+## model performance
+![image](https://github.com/keerthikkn/MNIST_Degit_Classification/assets/42544473/20737bd9-7228-498f-8c50-7a6f7a79ee34)
+
+
 ## Model Usage
 
 To use the trained model for digit classification, follow these steps:
