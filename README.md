@@ -23,9 +23,9 @@ To use the trained model for digit classification, follow these steps:
 
 1. Install the required dependencies mentioned in the `requirements.txt` file.
 
-2. Load the trained model weights using the provided file or by training the model from scratch.
+2. Load the model by training the model from scratch.
 
-3. Preprocess the input image to match the required format (grayscale, appropriate size).
+3. Preprocess the input image to match the required format (appropriate size).
 
 4. Feed the preprocessed image to the model and obtain the predicted probabilities for each digit class.
 
@@ -37,6 +37,8 @@ An example usage code snippet is provided in the repository to guide you through
 
 - `degit_classification.ipynb`: Contains the implementation of the CNN model architecture, training, and evaluation procedures.
 - `requirements.txt`: Lists the required dependencies for running the code.
+- `train.csv` : training dataset.
+- `test.csv` : test dataset.
 
 ## Conclusion
 
